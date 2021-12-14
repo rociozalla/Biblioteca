@@ -1,0 +1,64 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rochi/Dropbox/Documents/sistemas/segundo/algoritmos 2/TPE-AyDA2/Biblioteca/dominio/alumno.cpp
+alumno.h
+/Users/rochi/Dropbox/Documents/sistemas/segundo/algoritmos 2/TPE-AyDA2/Biblioteca/dominio/alumno.h
+
+/Users/rochi/Dropbox/Documents/sistemas/segundo/algoritmos 2/TPE-AyDA2/Biblioteca/dominio/alumno.h
+set
+-
+libro.h
+/Users/rochi/Dropbox/Documents/sistemas/segundo/algoritmos 2/TPE-AyDA2/Biblioteca/dominio/libro.h
+
+/Users/rochi/Dropbox/Documents/sistemas/segundo/algoritmos 2/TPE-AyDA2/Biblioteca/dominio/libro.cpp
+libro.h
+/Users/rochi/Dropbox/Documents/sistemas/segundo/algoritmos 2/TPE-AyDA2/Biblioteca/dominio/libro.h
+
+/Users/rochi/Dropbox/Documents/sistemas/segundo/algoritmos 2/TPE-AyDA2/Biblioteca/dominio/libro.h
+iostream
+-
+
+/Users/rochi/Dropbox/Documents/sistemas/segundo/algoritmos 2/TPE-AyDA2/Biblioteca/main.cpp
+iostream
+-
+fstream
+-
+list
+-
+dominio/libro.h
+/Users/rochi/Dropbox/Documents/sistemas/segundo/algoritmos 2/TPE-AyDA2/Biblioteca/dominio/libro.h
+utilidades/lectorLibros.h
+/Users/rochi/Dropbox/Documents/sistemas/segundo/algoritmos 2/TPE-AyDA2/Biblioteca/utilidades/lectorLibros.h
+servicios/algoritmos.h
+/Users/rochi/Dropbox/Documents/sistemas/segundo/algoritmos 2/TPE-AyDA2/Biblioteca/servicios/algoritmos.h
+
+/Users/rochi/Dropbox/Documents/sistemas/segundo/algoritmos 2/TPE-AyDA2/Biblioteca/servicios/algoritmos.cpp
+algoritmos.h
+/Users/rochi/Dropbox/Documents/sistemas/segundo/algoritmos 2/TPE-AyDA2/Biblioteca/servicios/algoritmos.h
+../dominio/libro.h
+/Users/rochi/Dropbox/Documents/sistemas/segundo/algoritmos 2/TPE-AyDA2/Biblioteca/dominio/libro.h
+
+/Users/rochi/Dropbox/Documents/sistemas/segundo/algoritmos 2/TPE-AyDA2/Biblioteca/servicios/algoritmos.h
+../dominio/libro.h
+/Users/rochi/Dropbox/Documents/sistemas/segundo/algoritmos 2/TPE-AyDA2/Biblioteca/dominio/libro.h
+../dominio/alumno.h
+/Users/rochi/Dropbox/Documents/sistemas/segundo/algoritmos 2/TPE-AyDA2/Biblioteca/dominio/alumno.h
+list
+-
+
+/Users/rochi/Dropbox/Documents/sistemas/segundo/algoritmos 2/TPE-AyDA2/Biblioteca/utilidades/lectorLibros.cpp
+lectorLibros.h
+/Users/rochi/Dropbox/Documents/sistemas/segundo/algoritmos 2/TPE-AyDA2/Biblioteca/utilidades/lectorLibros.h
+
+/Users/rochi/Dropbox/Documents/sistemas/segundo/algoritmos 2/TPE-AyDA2/Biblioteca/utilidades/lectorLibros.h
+iostream
+-
+../dominio/libro.h
+/Users/rochi/Dropbox/Documents/sistemas/segundo/algoritmos 2/TPE-AyDA2/Biblioteca/dominio/libro.h
+

@@ -1,0 +1,3 @@
+/Users/rochi/Dropbox/Documents/sistemas/segundo/algoritmos 2/TPE-AyDA2/Biblioteca/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/rochi/Dropbox/Documents/sistemas/segundo/algoritmos 2/TPE-AyDA2/Biblioteca/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/rochi/Dropbox/Documents/sistemas/segundo/algoritmos 2/TPE-AyDA2/Biblioteca/cmake-build-debug/CMakeFiles/Biblioteca.dir
